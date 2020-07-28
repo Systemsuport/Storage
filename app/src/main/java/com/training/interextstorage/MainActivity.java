@@ -22,7 +22,7 @@ import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 
 public class MainActivity extends AppCompatActivity {
-
+//I have change on web......
 
     EditText editText1,editText2;
     String s1,s2;
