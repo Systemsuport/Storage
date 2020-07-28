@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity {
 
 
     }
-
+    //I have change on studio......
     public void inter(View view) {
         s1=editText1.getText().toString();
         s2=editText2.getText().toString();
